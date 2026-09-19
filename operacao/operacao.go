@@ -1,4 +1,4 @@
-package operação
+package operacao
 
 import "fmt"
 
